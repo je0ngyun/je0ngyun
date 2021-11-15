@@ -4,4 +4,4 @@
   />
 </a>
 
-　Powered by [**CardMe**](https://github.com/je0ngyun/cardmeBE)
+- Powered by [**CardMe**](https://github.com/je0ngyun/cardmeBE)
